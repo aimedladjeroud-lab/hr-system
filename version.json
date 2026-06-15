@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.5",
   "download_url": "https://github.com/aimedladjeroud-lab/hr-system/releases/download/V1_0_3/update.zip",
   "release_notes": "🔹 تمت إضافة ميزة مزامنة الشبكة بنجاح.\n🔹 إصلاح الأخطاء في واجهة الطباعة.\n🔹 تحسين سرعة جلب البيانات للعمال."
 }
